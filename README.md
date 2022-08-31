@@ -1,1 +1,1 @@
-# devops3-Terraform-RMQ-AWS
+# devops-Terraform-RMQ-AWS
